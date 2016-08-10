@@ -40,7 +40,7 @@
     float: left;
     margin: 8%;
 }
-.cardleft {
+.card {
     background-color: yellow;
 	height: 200px;
 	width: 150px;
@@ -51,16 +51,6 @@
     margin: 0 50px 50px 50px;
 }
 
-.cardright {
-    background-color: yellow;
-	height: 200px;
-	width: 150px;
-	border: 1px black solid;
-	border-radius: 10px;
-    float: left;
-    display: block;
-    margin: 0 50px 50px 50px;
-} 
     footer {
 		background-color: #808080;
 		text-align: center;
@@ -69,4 +59,9 @@
     }
     span {
 		color: #ff0000;
+	}
+
+	img {
+		height: 200px;
+		width: 150px;
 	}
